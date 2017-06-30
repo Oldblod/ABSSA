@@ -22,7 +22,7 @@ a {
 }
 ul li {
   display: inline;
-  margin: 0 auto 0 auto;
+  text-align: center;
 }
 img {
   height: 600px;
