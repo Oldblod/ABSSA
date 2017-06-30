@@ -39,3 +39,6 @@ ul li:nth-child(5) {
     position: relative;
     left: 20px;
 }
+img {
+  height: 300px;
+}
