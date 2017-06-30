@@ -23,3 +23,6 @@ a {
 ul li {
   display: inline;
 }
+.onglets {
+  padding: 15px 0 15px 0;
+}
