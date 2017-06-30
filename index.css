@@ -23,15 +23,19 @@ a {
 ul li {
   display: inline;
 }
-ul li:nth-child(2) { /* second item */
+ul li:nth-child(2) {
     position:relative;
     left:5px;
 }
-ul li:nth-child(3) { /* third item */
+ul li:nth-child(3) {
     position:relative;
     left:10px;
 }
-ul li:nth-child(4) { /* fourth item */
+ul li:nth-child(4) {
     position:relative;
     left:15px;
+}
+ul li:nth-child(5) {
+    position: relative;
+    left: 20px;
 }
