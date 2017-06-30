@@ -9,9 +9,10 @@ h1 {
   color: #ffffff;
 }
 h2 {
+  width: 50px 25px 50px 25px; 
   padding: 0 0 0 0;
   color: #ffffff;
-  border-bottom: 15px solid white;
+  border-bottom: 6px solid white;
 }
 a {
   color: #ffffff;
