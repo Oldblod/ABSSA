@@ -25,23 +25,23 @@ ul li {
 }
 ul li:nth-child(1) {
     position:relative;
-    left:500px;
+    left:400px;
 }
 ul li:nth-child(2) {
     position:relative;
-    left:505px;
+    left:405px;
 }
 ul li:nth-child(3) {
     position:relative;
-    left:510px;
+    left:410px;
 }
 ul li:nth-child(4) {
     position: relative;
-    left:515px;
+    left:415px;
 }
 ul li:nth-child(5) {
     position: relative;
-    left:520px;
+    left:420px;
 }
 img {
   height: 600px;
