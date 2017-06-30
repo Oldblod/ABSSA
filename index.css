@@ -21,10 +21,8 @@ a {
   color: white;
 }
 li {
-  width: 500px;
-  padding: 20px;
-  margin: 0 auto 0 auto;
   display: inline;
+  text-align: center;
 }
 img {
   height: 600px;
