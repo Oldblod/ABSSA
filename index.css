@@ -8,9 +8,8 @@ h1 {
   color: black;
 }
 h2 {
-  padding: 50px 25px 50px 25px;
   color: black;
-  border-bottom: 6px solid black;
+  text-decoration: underline;
 }
 a {
   color: black;
