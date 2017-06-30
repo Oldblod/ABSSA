@@ -30,10 +30,17 @@ img {
 p {
   color: white;
 }
-.Logo {
+.LogoRight {
   float: right;
   width: 125px;
   height: 125px;
   margin-right: 220px;
+  margin-top: 35px;
+}
+.LogoLeft {
+  float: left;;
+  width: 125px;
+  height: 125px;
+  margin-left: 220px;
   margin-top: 35px;
 }
