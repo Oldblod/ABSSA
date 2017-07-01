@@ -22,7 +22,7 @@ a {
 li {
   display: inline;
   text-align: center;
-  list-style: none;
+  list-style-type: none;
 }
 img {
   height: 600px;
