@@ -1,6 +1,6 @@
 body {
   background-color: #6495ED;
-  font-family: baskerville;
+  font-family: helvetica;
 }
 h1 {
   width: 500px;
@@ -8,32 +8,32 @@ h1 {
   text-align: center;
   color: white;
   border: 6px solid black;
-  font-family: baskerville;
+  font-family: helvetica;
 }
 h2 {
   color: white;
   text-decoration: underline;
   margin: 15px auto 0 auto;
-  font-family: baskerville;
+  font-family: helvetica;
 }
 h3 {
   margin: 30px auto 0 auto;
   color: white;
-  font-family: baskerville;
+  font-family: helvetica;
 }
 h4 {
   color:white;
-  font-family: baskerville;
+  font-family: helvetica;
 }
 a {
   color: white;
-  font-family: baskerville;
+  font-family: helvetica;
 }
 li {
   display: inline;
   list-style-type: none;
   text-align: center;
-  font-family: baskerville;
+  font-family: helvetica;
 }
 img {
   height: 600px;
@@ -41,7 +41,7 @@ img {
 }
 p {
   color: white;
-  font-family: baskerville;
+  font-family: helvetica;
 }
 .LogoRight {
   float: right;
