@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  font-family: helvetica;
+  font-family: helvetica, arial, sans-serif;
   color: white;
 }
 header {
@@ -48,7 +48,7 @@ img {
   width: 100%;
 }
 p {
-  font-family: helvetica;
+  
 }
 .LogoRight, .LogoLeft {
   width: 150px;
