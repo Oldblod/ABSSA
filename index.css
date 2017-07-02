@@ -49,14 +49,16 @@ p {
   width: 150px;
   height: 125px;
   position: relative;
-  top: 0;
+  top: 25px;
   border: 6px solid black;
 }
 .LogoRight {
+  right: 0;
   float: right;
   margin-right: 220px;
 }
 .LogoLeft {
+  left: 0;
   float: left;
   margin-left: 220px;
 }
