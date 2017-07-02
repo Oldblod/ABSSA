@@ -48,7 +48,7 @@ p {
 }
 .LogoRight, .LogoLeft {
   width: 150px;
-  height: 100%;
+  height: 50%;
 }
 .LogoRight {
   right: 0;
