@@ -23,8 +23,7 @@ a {
 .onglets li {
     display: inline;
     text-align: center;
-    content: white;
-    color: black;
+    color: white;
 }
 .onglets ul {
   margin: 0;
