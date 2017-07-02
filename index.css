@@ -50,15 +50,16 @@ p {
   width: 150px;
   height: 100%;
   position: relative;
-  border: 6px solid black;
 }
 .LogoRight {
   right: 0;
   float: right;
+  border-left: 6px solid black;
 }
 .LogoLeft {
   left: 0;
   float: left;
+  border-right: 6px solid black;
 }
 .rank{
   padding-top: 25px;
