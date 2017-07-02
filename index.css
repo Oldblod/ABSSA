@@ -35,6 +35,7 @@ a {
 .onglets-wrapper {
   text-align: center;
   background-color: black;
+  margin-top: 5px;
   }
 img {
   height: 600px;
@@ -47,7 +48,7 @@ p {
   width: 150px;
   height: 125px;
   position: relative;
-  top: 25px;
+  top: 20px;
   border: 6px solid black;
 }
 .LogoRight {
