@@ -50,7 +50,7 @@ p {
 }
 .LogoRight, .LogoLeft {
   width: 150px;
-  height: 50%;
+  height: 100%;
   border-bottom: 6px solid black;
 }
 .LogoRight {
