@@ -32,6 +32,8 @@ a {
 .onglets li {
     display: inline;
     text-align: center;
+    content: white;
+    color: black;
 }
 .onglets ul {
   margin: 0;
@@ -41,9 +43,7 @@ a {
 .onglets-wrapper {
   text-align: center;
   background-color: black;
-  content: white;
-  color: black;
-}
+  }
 img {
   height: 600px;
   width: 1270px;
