@@ -42,19 +42,18 @@ img {
 p {
   font-family: helvetica;
 }
-.LogoRight {
-  float: right;
+.LogoRight, .LogoLeft {
   width: 150px;
   height: 125px;
-  margin-right: 220px;
   margin-top: 35px;
+}
+.LogoRight {
+  float: right;
+  margin-right: 220px;
 }
 .LogoLeft {
   float: left;;
-  width: 150px;
-  height: 125px;
   margin-left: 220px;
-  margin-top: 35px;
 }
 .rank{
   padding-top: 25px;
