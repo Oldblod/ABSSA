@@ -1,28 +1,24 @@
 body {
   background-color: #6495ED;
   font-family: helvetica;
+  color: white;
 }
 h1 {
   width: 500px;
   margin: 0 auto 0 auto;
   text-align: center;
-  color: white;
   border: 6px solid black;
 }
 h2 {
-  color: white;
   text-decoration: underline;
   margin: 15px auto 0 auto;
 }
 h3 {
   margin: 30px auto 0 auto;
-  color: white;
 }
 h4 {
-  color:white;
 }
 a {
-  color: white;
 }
 .onglets li {
     display: inline;
@@ -44,7 +40,6 @@ img {
   width: 1270px;
 }
 p {
-  color: white;
   font-family: helvetica;
 }
 .LogoRight {
