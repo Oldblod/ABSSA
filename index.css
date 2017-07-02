@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://scontent-bru2-1.xx.fbcdn.net/v/t31.0-8/19477747_10212775250046809_6045918303420994300_o.jpg?oh=c055666736f01c7a2a649b912c503505&oe=5A10B7CB);
+  background-color: #6495ED;
   font-family: helvetica;
 }
 h1 {
@@ -41,6 +41,8 @@ a {
 .onglets-wrapper {
   text-align: center;
   background-color: black;
+  content: white;
+  color: black;
 }
 img {
   height: 600px;
