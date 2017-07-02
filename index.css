@@ -1,12 +1,12 @@
 body {
-  background-color: orange;
+  background-color: black;
   font-family: helvetica;
   color: white;
 }
 header {
   width: 100%;
   text-align: center;
-  background-color: cyan;
+  background-color: #6495ED;
 }
 h1 {
 }
@@ -53,12 +53,10 @@ p {
 .LogoRight {
   right: 0;
   float: right;
-  margin-right: 220px;
 }
 .LogoLeft {
   left: 0;
   float: left;
-  margin-left: 220px;
 }
 .rank{
   padding-top: 25px;
