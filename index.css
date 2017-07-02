@@ -8,26 +8,21 @@ h1 {
   text-align: center;
   color: white;
   border: 6px solid black;
-  font-family: helvetica;
 }
 h2 {
   color: white;
   text-decoration: underline;
   margin: 15px auto 0 auto;
-  font-family: helvetica;
 }
 h3 {
   margin: 30px auto 0 auto;
   color: white;
-  font-family: helvetica;
 }
 h4 {
   color:white;
-  font-family: helvetica;
 }
 a {
   color: white;
-  font-family: helvetica;
 }
 .onglets li {
     display: inline;
