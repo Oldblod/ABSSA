@@ -1,17 +1,14 @@
 body {
-  background-color: #6080FF;
+  background-color: orange;
   font-family: helvetica;
   color: white;
 }
 header {
-
+  width: 100%;
+  text-align: center;
+  background-color: cyan;
 }
 h1 {
-  background-color:red;
-  width: 100%;
-  margin: 0 auto 0 auto;
-  text-align: center;
-  border: 6px solid black;
 }
 h2 {
   text-decoration: underline;
