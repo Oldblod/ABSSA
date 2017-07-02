@@ -40,7 +40,8 @@ a {
 .onglets-wrapper {
   text-align: center;
   background-color: black;
-  margin-top: 5px;
+  margin: 0;
+  padding: 0;
   }
 img {
   height: 600px;
