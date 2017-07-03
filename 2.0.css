@@ -17,11 +17,11 @@ a {
 }
 .nav li {
   display: inline;
-  padding: 0;
+  padding: 0 5px;
 }
 .nav ul {
   margin: 0;
-  padding: 0 5px;
+  padding: 0;
   list-style-type: none;
 }
 .nav-wrapper {
