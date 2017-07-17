@@ -62,3 +62,9 @@ span {
   font-size: 20px;
   display: table-cell;
 }
+ul {
+  list-style-type: none;
+}
+.premier {
+  font-size: 25px;
+}
